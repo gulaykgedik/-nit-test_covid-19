@@ -39,6 +39,12 @@ Redux Mock Store
 ## Screenshot
 <br/>
 
+![covid-19](https://github.com/user-attachments/assets/27b4aa89-0b23-4e75-9569-ec66dae25136)
+
+
+
+
+
 
 
 
