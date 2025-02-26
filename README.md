@@ -1,8 +1,45 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Covid-19 Tracker
+<br/>
+This project is a web application that visualizes Covid-19 data. The data retrieved from an API is displayed using map and statistical components. Redux Toolkit is used for state management, and unit tests have been implemented.
 
-Currently, two official plugins are available:
+## Technologies Used
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
+
+Redux Toolkit
+
+React Redux
+
+React Router DOM
+
+Redux Thunk
+
+Axios
+
+React Simple Maps
+
+Millify
+
+TailwindCSS
+
+React Icons
+
+Testing Library
+
+@testing-library/react
+
+@testing-library/jest-dom
+
+@testing-library/user-event
+
+Redux Mock Store
+
+## Screenshot
+<br/>
+
+
+
+
+
